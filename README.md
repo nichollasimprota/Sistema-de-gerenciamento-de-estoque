@@ -14,7 +14,7 @@ Um sistema de linha de comando (CLI) desenvolvido em Python para gerenciamento d
 ## 🛠️ Tecnologias
 
 - **Python 3** — sem dependências externas, apenas biblioteca padrão
-- **VScode** - IDE usada para a construção do codigo
+- **VScode** — IDE usada para a construção do codigo
 ## 🚀 Como executar
 
 **Pré-requisito:** Python 3 instalado na máquina.
