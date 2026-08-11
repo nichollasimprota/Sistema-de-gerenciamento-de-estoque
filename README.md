@@ -33,8 +33,6 @@ Este projeto foi construído como exercício de fundamentos de Python, com foco 
 - Organização de código em funções com responsabilidade única
 - Uso de boas práticas como `if __name__ == "__main__":` e comentários 
 
-## 👤 Autor
-
-**Nichollas Improta Monteiro**
+## 👤 Nichollas Improta Monteiro
 - Estudante de Engenharia de Software (4° semestre)
 - [GitHub](https://github.com/nichollasimprota)
